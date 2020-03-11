@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "homepage": "https://github.com/csant510/monsters-rolodex",
+=======
+>>>>>>> parent of 46e2ab6... adding files for pages
 =======
 >>>>>>> parent of 46e2ab6... adding files for pages
   "dependencies": {
@@ -19,9 +22,13 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
     "deploy": "gh-pages -b master -d build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> parent of 46e2ab6... adding files for pages
 =======
     "eject": "react-scripts eject"
 >>>>>>> parent of 46e2ab6... adding files for pages
